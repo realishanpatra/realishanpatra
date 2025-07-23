@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web and App Development<br>👯 I’m looking to collaborate on projects that bring out innovation<br>🤝 I’m looking for help with networking across various fields <br>🌱 I’m currently learning backed mobile application technology<br>💬 Ask me about my current project<br>⚡ Fun fact about me is that I am always ready to learn and development is my passion.
+🔭 I’m currently working on Full Stack Web and App Development<br>👯 I’m looking to collaborate on projects that bring out innovation<br>🤝 I’m looking for help with networking across various fields <br>🌱 I’m currently learning backend mobile application development<br>💬 Ask me about my current project<br>⚡ Fun fact about me is that I am always ready to learn and development is my passion.
 
 
 ## 🌐 Socials:
